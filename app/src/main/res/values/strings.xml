@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Earthly</string>
+
+    <string name="territorios">Territorios</string>
+    <string name="banderas">Banderas</string>
+    <string name="brujula">Brújula</string>
+    <string name="biomas">Biomas</string>
+
+    <string name="question_flags">¿Cuál es el nombre de este país?</string>
+
+    <string name="argentina">Argentina</string>
+    <string name="brasil">Brasil</string>
+    <string name="canada">Canadá</string>
+    <string name="chile">Chile</string>
+    <string name="colombia">Colombia</string>
+    <string name="cuba">Cuba</string>
+    <string name="usa">E.U.A.</string>
+    <string name="mexico">México</string>
+    <string name="peru">Perú</string>
+    <string name="venezuela">Venezuela</string>
+
+    <string name="siguiente">Siguiente</string>
+
+</resources>
